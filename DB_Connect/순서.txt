@@ -1,0 +1,3 @@
+1. jar파일 lib에 복사
+2. 프로젝트 오른쪽 클릭 buildpath -> configure  -> 라이브러리 -> 클래스 path -> add jars -> jare찾아서 ok -> 우유모양확인 
+3. 클래스 추가
